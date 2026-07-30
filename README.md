@@ -31,18 +31,7 @@ The project includes:
 
 ---
 
-## 📂 Repository Structure
 
-```
-sql-python-sales-analysis/
-│
-├── README.md
-├── orders.csv
-├── orders_data_analysis.sql
-└── test_notebook.ipynb
-```
-
----
 
 ## 📁 Dataset
 
@@ -193,26 +182,6 @@ Run all cells.
 
 ---
 
-## Future Improvements
 
-- Build an interactive Power BI dashboard.
-- Create KPI dashboards.
-- Perform customer segmentation.
-- Predict future sales using Machine Learning.
-- Deploy the analysis as a web application.
-
----
-
-## Author
-
-**Krish Khattar**
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
-🐙 GitHub: https://github.com/Krishkhattar03
-
----
 
 ## ⭐ If you found this project useful, consider giving it a Star!
