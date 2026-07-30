@@ -177,7 +177,6 @@ Launch Jupyter Notebook and open
 ```
 test_notebook.ipynb
 ```
-
 Run all cells.
 
 ---
